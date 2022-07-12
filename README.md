@@ -53,7 +53,7 @@ Version 5.0 (You can get songs AUDIO/DOCUMENT/VOICE types)
 
 
 <p align="center">
-<img src="https://i.ibb.co/6tCrPD6/image-downloader-1654443961039.gif" alt="nz" width="600"/>
+<img src="https://i.ibb.co/Q8YtWMr/Anime-Girl-GIF-Image-Download-25.gif" alt="nz" width="600"/>
 </p>
 
 </details>
