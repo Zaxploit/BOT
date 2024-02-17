@@ -22,9 +22,9 @@ global.APIKeys = {
 global.alivemsg = `Hi there I'm WhiteKing's BOT whiteQueen ALIVE NOW 
 Owner - Samiru methsara (whiteking)` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+94785509477'] //Owner number in aive msg
-global.premium = ['+94785509477'] //Owner Number info
-global.ownernomer = '+94785509477' //Owner Number <<<
+global.owner = ['+6281617945484'] //Owner number in aive msg
+global.premium = ['+6281617945484'] //Owner Number info
+global.ownernomer = '+6283890107168' //Owner Number <<<
 
 global.ownername = '😎WhiteKing' //Owner Name
 global.botname = ' WhiteQueen BOT' //Bot Name
